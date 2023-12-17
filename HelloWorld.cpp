@@ -8,5 +8,6 @@ int main() {
     std::cout << "\n Hello I am Ruben!";
     std::cout << "\n Hello I am Miguel!";
     std::cout << "\n Hello I am Sofia!";
+    std::cout << "\n Hello I am Aitor!";
     return 0;
 }
