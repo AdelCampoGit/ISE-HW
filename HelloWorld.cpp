@@ -7,5 +7,6 @@ int main() {
     std::cout << "\n Hello I am Andres!";
     std::cout << "\n Hello I am Ruben!";
     std::cout << "\n Hello I am Miguel!";
+    std::cout << "\n Hello I am Sofia!";
     return 0;
 }
